@@ -1,0 +1,14 @@
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\bin\Debug\net8.0\Telefon_Rehberi_Uygulamasi.exe
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\bin\Debug\net8.0\Telefon_Rehberi_Uygulamasi.deps.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\bin\Debug\net8.0\Telefon_Rehberi_Uygulamasi.runtimeconfig.json
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\bin\Debug\net8.0\Telefon_Rehberi_Uygulamasi.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\bin\Debug\net8.0\Telefon_Rehberi_Uygulamasi.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\obj\Debug\net8.0\Telefon_Rehberi_Uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\obj\Debug\net8.0\Telefon_Rehberi_Uygulamasi.AssemblyInfoInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\obj\Debug\net8.0\Telefon_Rehberi_Uygulamasi.AssemblyInfo.cs
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\obj\Debug\net8.0\Telefon_Rehberi_Uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\obj\Debug\net8.0\Telefon_Rehberi_Uygulamasi.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\obj\Debug\net8.0\refint\Telefon_Rehberi_Uygulamasi.dll
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\obj\Debug\net8.0\Telefon_Rehberi_Uygulamasi.pdb
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\obj\Debug\net8.0\Telefon_Rehberi_Uygulamasi.genruntimeconfig.cache
+C:\Users\halil\OneDrive\Masaüstü\Pratikler\Telefon_Rehberi_Uygulamasi\obj\Debug\net8.0\ref\Telefon_Rehberi_Uygulamasi.dll
